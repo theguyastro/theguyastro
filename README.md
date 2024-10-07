@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theguyastro
 - 👀 I know Javascript, Html and CSS.
 - 🌱 I am currently learning C++.
-- 💞️ I’m looking to collaborate on some cool projects.
+- 💞️ I’m looking forward to collaborate on some cool projects.
 - 📫 How to reach me, feel free to email me on contact@theguyastro.dev or contact me on discord ( theguyastro ).
 
 <!---
